@@ -13,6 +13,7 @@
 		C3D14C7F1DE0241600F82101 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C3D14C7E1DE0241600F82101 /* Assets.xcassets */; };
 		C3D14C821DE0241600F82101 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C3D14C801DE0241600F82101 /* LaunchScreen.storyboard */; };
 		C3D14C8D1DE0241600F82101 /* PokedexDemoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3D14C8C1DE0241600F82101 /* PokedexDemoTests.swift */; };
+		C3D14C981DE0276300F82101 /* pokemon copy.csv in Resources */ = {isa = PBXBuildFile; fileRef = C3D14C971DE0276300F82101 /* pokemon copy.csv */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		C3D14C881DE0241600F82101 /* PokedexDemoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PokedexDemoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C3D14C8C1DE0241600F82101 /* PokedexDemoTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PokedexDemoTests.swift; sourceTree = "<group>"; };
 		C3D14C8E1DE0241600F82101 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C3D14C971DE0276300F82101 /* pokemon copy.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = "pokemon copy.csv"; path = "../../../pokeapi-master/data/v1/pokemon copy.csv"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 			children = (
 				C3D14C771DE0241600F82101 /* AppDelegate.swift */,
 				C3D14C791DE0241600F82101 /* ViewController.swift */,
+				C3D14C971DE0276300F82101 /* pokemon copy.csv */,
 				C3D14C7B1DE0241600F82101 /* Main.storyboard */,
 				C3D14C7E1DE0241600F82101 /* Assets.xcassets */,
 				C3D14C801DE0241600F82101 /* LaunchScreen.storyboard */,
@@ -179,6 +182,7 @@
 			files = (
 				C3D14C821DE0241600F82101 /* LaunchScreen.storyboard in Resources */,
 				C3D14C7F1DE0241600F82101 /* Assets.xcassets in Resources */,
+				C3D14C981DE0276300F82101 /* pokemon copy.csv in Resources */,
 				C3D14C7D1DE0241600F82101 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

@@ -1,6 +1,6 @@
 //
-//  CSV
-//  Modified by Mark Price on 08/14/15
+//  Parsing CSV file
+//
 //
 
 import Foundation
